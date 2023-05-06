@@ -49,6 +49,7 @@ if (
         break;
     }
   }
+  
   if (year && city && sport) {
     alert(
       `Вам ${age} років. Ви живете у місті - ${city}. Ваш улюблений вид спорту - ${sport}.`
